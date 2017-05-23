@@ -2,7 +2,7 @@
 layout: post
 title:  "リスク管理"
 tags: FP
-permalink: /
+permalink: /リスク管理
 ---
 
 ![]({{site.baseurl}}/assets/images/moneygone.png)
