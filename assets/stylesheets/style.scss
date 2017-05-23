@@ -16,7 +16,10 @@ table tr:nth-child(even) {
 table th {
     background:#dcdcdc;
 }
-
+table, table td, table th {
+    border-collapse: collapse;
+    border:1px solid #333;
+ }
 
 .bg-theme-color {
     background: {{ site.color }};
