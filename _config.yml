@@ -1,10 +1,10 @@
-title: Kieta
-subtitle: All hope is gone
-author: YOUR_NAME_OR_ID
+title: FP3級合格を目指すブログ
+subtitle: 短期詰め込みで合格を目指します。
+author: Tomishima Shingo
 twitter:
   username: YOUR_TWITTER_ID
 disqus: YOUR_DISQUS_SHORTNAME
-color: limegreen # web color
+color: skyblue # web color
 branch: master # where your github pages hosted branch
 
 permalink: /items/:title
