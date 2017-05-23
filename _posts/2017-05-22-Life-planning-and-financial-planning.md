@@ -12,6 +12,6 @@ permalink: /
 - 守秘義務の厳守
 - 説明義務（アカウンタビリティ）
 - 顧客の同意（インフォームド・コンセント）
-
+![]({{site.baseurl}}/assets/images/ethical.png)
 
 
