@@ -13,7 +13,7 @@ layout: page
       <time class="small">{{ post.date | date_to_string }}</time>
       <span class="small"><i class="fa fa-tags" aria-hidden="true"></i>{{ post.tags | join:", " }}</span>
     </div>
-    <p class="mb-1 text-muted">{{ post.excerpt | strip_html | truncate:20 }}</p>
+    <p class="mb-1 text-muted">{{ post.excerpt | strip_html | truncate:2 }}</p>
   </article>
   {% endfor %}
 </section>
