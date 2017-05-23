@@ -4,7 +4,7 @@ author: Tomishima Shingo
 twitter:
   username: YOUR_TWITTER_ID
 disqus: YOUR_DISQUS_SHORTNAME
-color: skyblue # web color
+color: GAINSBORO # web color
 branch: master # where your github pages hosted branch
 
 permalink: /items/:title
