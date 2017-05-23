@@ -2,7 +2,7 @@
 layout: post
 title:  "ライフプランニングと資金計画"
 tags: FP
-permalink: /
+permalink: /ライフプランニングと資金計画
 ---
 # FPの基礎知識
 「FPの守備範囲」が頻出！
