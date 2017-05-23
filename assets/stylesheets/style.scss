@@ -10,7 +10,7 @@ body {
 }
 
 .bg-theme-color {
-    background: #2164f3;
+    background: {{ site.color }};
 }
 
 .text-theme-color {
