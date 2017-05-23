@@ -6,7 +6,7 @@ layout: default
 <!--{% include post/toolbar.html %}-->
 
 <main class="container pt-4">
-  <section class="row">
+<!--  <section class="row">-->
     <div class="col-md-9" data-spy="scroll" data-target="#toc" data-offset="0">
         {% capture one_year %}{{ 60 | times: 60 | times: 24 | times: 365 }}{% endcapture %}
         {% capture current_time %}{{ site.time | date: "%s" }}{% endcapture %}
@@ -27,5 +27,5 @@ layout: default
         {% include post/disqus.html %}
 -->
     </div>
-  </section>
+<!--  </section>-->
 </main>
