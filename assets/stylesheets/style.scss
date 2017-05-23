@@ -8,6 +8,14 @@
 body {
     position: relative;
 }
+table tr.even {
+    background:#fff0f0;
+}
+
+table th {
+    background:#dcdcdc;
+}
+
 
 .bg-theme-color {
     background: {{ site.color }};
