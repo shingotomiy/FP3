@@ -12,10 +12,14 @@ permalink: /
 - 守秘義務の厳守
 - 説明義務（アカウンタビリティ）
 - 顧客の同意（インフォームド・コンセント）
+
 ![]({{site.baseurl}}/assets/images/ethical.png)
 
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 ## 6つの係数
 - 終価係数
 - 現価係数
