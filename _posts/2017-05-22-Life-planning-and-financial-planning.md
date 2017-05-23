@@ -15,3 +15,11 @@ permalink: /
 ![]({{site.baseurl}}/assets/images/ethical.png)
 
 
+
+## 6つの係数
+- 終価係数
+- 現価係数
+- 減債基金係数
+- 資本回収係数
+- 年金終価係数
+- 年金現価係数
