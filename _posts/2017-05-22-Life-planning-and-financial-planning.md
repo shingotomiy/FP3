@@ -16,10 +16,7 @@ permalink: /ライフプランニングと資金計画
 ![]({{site.baseurl}}/assets/images/ethical.png)
 
 
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 ## 6つの係数
 - 終価係数
 - 現価係数
