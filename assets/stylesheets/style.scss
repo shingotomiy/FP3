@@ -8,8 +8,9 @@
 body {
     position: relative;
 }
-table td.even {
-    background:#fff0f0;
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
 }
 
 table th {
